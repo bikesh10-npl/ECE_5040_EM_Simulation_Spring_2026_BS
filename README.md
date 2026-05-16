@@ -4,6 +4,10 @@
 This project was developed as part of the course requirements for ECE 5040, EM Simulation, offered in Spring 2026 at the University of Idaho.
 
 
+## Project Description
+The project was completed as the final project of the ECE 5040 ECE Simulation class at the University of Idaho.
+There are eight individual problems. The python codes and the plots are uploaded in their respective folder.
+
 ## References
 ```
 [1] A.A. Jamali, K. Kanwar, M. Hussain, K.A. Memon, and F.A. Jokhio,  
