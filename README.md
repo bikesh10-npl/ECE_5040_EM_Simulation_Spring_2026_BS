@@ -15,8 +15,7 @@ There are eight individual problems. The python codes and the plots are uploaded
 IJCSNS International Journal of Computer Science and Network Security,  
 vol. 18, no. 12, pp. 1--7, Dec. 2018.
 
-[2] A. Zadehgol,  
-"Complex s-Plane Modeling and 2D Characterization of the Stochastic Scattering Loss in Symmetric Dielectric Slab Waveguides Exhibiting Ergodic Surface-Roughness With an Exponential Autocorrelation Function,"  
+[2] A. Zadehgol,  "Complex s-Plane Modeling and 2D Characterization of the Stochastic Scattering Loss in Symmetric Dielectric Slab Waveguides Exhibiting Ergodic Surface-Roughness With an Exponential Autocorrelation Function,"  
 IEEE Access, vol. 9, pp. 92326--92344, 2021.
 
 [3] C. A. Balanis, \textit{Antenna Theory: Analysis and Design}, 4th ed., Wiley, 2016.
